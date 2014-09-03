@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+
+// 可以再这里更改程序名，也叫程序名国际化
+ CFBundleDisplayName = "测试";
+
+
