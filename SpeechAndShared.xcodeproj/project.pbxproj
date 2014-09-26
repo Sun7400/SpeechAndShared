@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D213D05819D2C9AD00C495BA /* NYHMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D213D05719D2C9AD00C495BA /* NYHMainViewController.xib */; };
 		D266679019AE2C2900064205 /* iflyMSC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D266678F19AE2C2900064205 /* iflyMSC.framework */; };
 		D274C57A19AE223C00D0F96F /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D274C57919AE223C00D0F96F /* RootViewController.m */; };
 		D274C59019AE225900D0F96F /* ABNFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D274C57C19AE225900D0F96F /* ABNFViewController.m */; };
@@ -90,6 +91,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D213D05719D2C9AD00C495BA /* NYHMainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NYHMainViewController.xib; sourceTree = "<group>"; };
 		D266678F19AE2C2900064205 /* iflyMSC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iflyMSC.framework; path = ../iOS_ui_1.077_53fd7a30/lib/iflyMSC.framework; sourceTree = "<group>"; };
 		D274C57819AE223C00D0F96F /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		D274C57919AE223C00D0F96F /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
@@ -492,6 +494,7 @@
 				D2961F5719ADD5A70033266A /* NYHBaseViewController.m */,
 				D2961F5919ADD5CC0033266A /* NYHMainViewController.h */,
 				D2961F5A19ADD5CC0033266A /* NYHMainViewController.m */,
+				D213D05719D2C9AD00C495BA /* NYHMainViewController.xib */,
 				D291893819AEBAD000150C20 /* Umeng */,
 				D274C57719AE222C00D0F96F /* MSC */,
 				D2961F2B19ADCE310033266A /* Images.xcassets */,
@@ -624,6 +627,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D213D05819D2C9AD00C495BA /* NYHMainViewController.xib in Resources */,
 				D291895C19AEBEF500150C20 /* UMShareEditViewControlleriPad.xib in Resources */,
 				D291896419AEC2EC00150C20 /* icon@2x.png in Resources */,
 				D291895E19AEBEF500150C20 /* UMSnsAccountViewController.xib in Resources */,
